@@ -1,0 +1,311 @@
+country,alpha_code,alpha_,year,live_births
+Albania,AL,ALB,2014,4.6
+Albania,AL,ALB,2015,4.6
+Algeria,DZ,DZA,2014,7.3
+Algeria,DZ,DZA,2015,7.3
+Andorra,AD,AND,2014,7.5
+Andorra,AD,AND,2015,7.4
+Angola,AO,AGO,2014,15.4
+Angola,AO,AGO,2015,15.3
+Antigua and Barbuda,AG,ATG,2014,9.1
+Antigua and Barbuda,AG,ATG,2015,9.1
+Argentina,AR,ARG,2014,7.2
+Argentina,AR,ARG,2015,7.3
+Armenia,AM,ARM,2014,8.6
+Armenia,AM,ARM,2015,9
+Australia,AU,AUS,2014,6.4
+Australia,AU,AUS,2015,6.5
+Austria,AT,AUT,2014,6.6
+Austria,AT,AUT,2015,6.5
+Azerbaijan,AZ,AZE,2014,7.1
+Azerbaijan,AZ,AZE,2015,7.3
+Bahamas,BS,BHS,2014,13.2
+Bahamas,BS,BHS,2015,13.1
+Bahrain,BH,BHR,2014,11.2
+Bahrain,BH,BHR,2015,11.9
+Bangladesh,BD,BGD,2014,28.2
+Bangladesh,BD,BGD,2015,27.8
+Belarus,BY,BLR,2014,5
+Belarus,BY,BLR,2015,5.1
+Belgium,BE,BEL,2014,7.1
+Belgium,BE,BEL,2015,7.3
+Belize,BZ,BLZ,2014,8.6
+Belize,BZ,BLZ,2015,8.6
+Benin,BJ,BEN,2014,17
+Benin,BJ,BEN,2015,16.9
+Bhutan,BT,BTN,2014,11.8
+Bhutan,BT,BTN,2015,11.7
+Bolivia,BO,BOL,2014,7.3
+Bolivia,BO,BOL,2015,7.2
+"Bolivia, Plurinational State of",BO,BOL,2014,7.3
+"Bolivia, Plurinational State of",BO,BOL,2015,7.2
+Bosnia and Herzegovina,BA,BIH,2014,3.4
+Bosnia and Herzegovina,BA,BIH,2015,3.4
+Botswana,BW,BWA,2014,15.7
+Botswana,BW,BWA,2015,15.6
+Brazil,BR,BRA,2014,8.4
+Brazil,BR,BRA,2015,8.4
+Brunei,BN,BRN,2014,11.5
+Brunei,BN,BRN,2015,10.8
+Brunei Darussalam,BN,BRN,2014,11.5
+Brunei Darussalam,BN,BRN,2015,10.8
+Bulgaria,BG,BGR,2014,9.5
+Bulgaria,BG,BGR,2015,9.6
+Burkina Faso,BF,BFA,2014,13.2
+Burkina Faso,BF,BFA,2015,13.1
+Burma,MM,MMR,2014,12.4
+Burma,MM,MMR,2015,12.3
+Burundi,BI,BDI,2014,15.3
+Burundi,BI,BDI,2015,15.1
+Côte d'Ivoire,CI,CIV,2014,15.6
+Côte d'Ivoire,CI,CIV,2015,15.5
+Cambodia,KH,KHM,2014,12.2
+Cambodia,KH,KHM,2015,12.1
+Cameroon,CM,CMR,2014,12
+Cameroon,CM,CMR,2015,12
+Canada,CA,CAN,2014,6.3
+Canada,CA,CAN,2015,6.4
+Central African Republic,CF,CAF,2014,14.6
+Central African Republic,CF,CAF,2015,14.5
+Chile,CL,CHL,2014,6.2
+Chile,CL,CHL,2015,6.2
+China,CN,CHN,2014,5
+China,CN,CHN,2015,5
+Colombia,CO,COL,2014,10
+Colombia,CO,COL,2015,10
+Comoros,KM,COM,2014,23.9
+Comoros,KM,COM,2015,23.7
+Congo,CG,COG,2014,11.7
+Congo,CG,COG,2015,11.6
+"Congo, the Democratic Republic of the",CD,COD,2014,10.9
+"Congo, the Democratic Republic of the",CD,COD,2015,10.8
+Cook Islands,CK,COK,2014,3.5
+Cook Islands,CK,COK,2015,3.5
+Costa Rica,CR,CRI,2014,7.4
+Costa Rica,CR,CRI,2015,7.5
+Croatia,HR,HRV,2014,5
+Croatia,HR,HRV,2015,5.1
+Cuba,CU,CUB,2014,5.2
+Cuba,CU,CUB,2015,5.3
+Czech Republic,CZ,CZE,2014,7.9
+Czech Republic,CZ,CZE,2015,7.8
+Denmark,DK,DNK,2014,5.3
+Denmark,DK,DNK,2015,5.3
+Dominican Republic,DO,DOM,2014,11.3
+Dominican Republic,DO,DOM,2015,11.3
+Ecuador,EC,ECU,2014,11.2
+Ecuador,EC,ECU,2015,11.2
+El Salvador,SV,SLV,2014,10.3
+El Salvador,SV,SLV,2015,10.3
+Estonia,EE,EST,2014,4.4
+Estonia,EE,EST,2015,4.3
+Finland,FI,FIN,2014,4.2
+Finland,FI,FIN,2015,4.1
+France,FR,FRA,2014,7.4
+France,FR,FRA,2015,7.4
+Gabon,GA,GAB,2014,14.3
+Gabon,GA,GAB,2015,14.2
+Gambia,GM,GMB,2014,16.9
+Gambia,GM,GMB,2015,16.8
+Georgia,GE,GEO,2014,5.5
+Georgia,GE,GEO,2015,6.1
+Germany,DE,DEU,2014,6.7
+Germany,DE,DEU,2015,6.6
+Ghana,GH,GHA,2014,14.3
+Ghana,GH,GHA,2015,14.2
+Greece,GR,GRC,2014,8.8
+Greece,GR,GRC,2015,8.7
+Guatemala,GT,GTM,2014,11
+Guatemala,GT,GTM,2015,11
+Guinea-Bissau,GW,GNB,2014,21.3
+Guinea-Bissau,GW,GNB,2015,21.1
+Guyana,GY,GUY,2014,15.7
+Guyana,GY,GUY,2015,15.6
+Honduras,HN,HND,2014,10.9
+Honduras,HN,HND,2015,10.9
+Hungary,HU,HUN,2014,8.7
+Hungary,HU,HUN,2015,8.8
+Iceland,IS,ISL,2014,4.1
+Iceland,IS,ISL,2015,4.2
+Indonesia,ID,IDN,2014,10
+Indonesia,ID,IDN,2015,10
+Ireland,IE,IRL,2014,5.7
+Ireland,IE,IRL,2015,5.9
+Israel,IL,ISR,2014,7.9
+Israel,IL,ISR,2015,7.8
+Italy,IT,ITA,2014,7
+Italy,IT,ITA,2015,7
+Ivory Coast,CI,CIV,2014,15.6
+Ivory Coast,CI,CIV,2015,15.5
+Jamaica,JM,JAM,2014,14.6
+Jamaica,JM,JAM,2015,14.6
+Japan,JP,JPN,2014,9.5
+Japan,JP,JPN,2015,9.5
+Jordan,JO,JOR,2014,13.8
+Jordan,JO,JOR,2015,13.8
+Kazakhstan,KZ,KAZ,2014,5.8
+Kazakhstan,KZ,KAZ,2015,5.4
+Kenya,KE,KEN,2014,11.5
+Kenya,KE,KEN,2015,11.5
+"Korea, Republic of",KR,KOR,2014,5.7
+"Korea, Republic of",KR,KOR,2015,5.8
+Kuwait,KW,KWT,2014,9.9
+Kuwait,KW,KWT,2015,9.9
+Kyrgyzstan,KG,KGZ,2014,5.5
+Kyrgyzstan,KG,KGZ,2015,5.5
+Lao People's Democratic Republic,LA,LAO,2014,17.4
+Lao People's Democratic Republic,LA,LAO,2015,17.3
+Latvia,LV,LVA,2014,4.5
+Latvia,LV,LVA,2015,4.5
+Lebanon,LB,LBN,2014,9.3
+Lebanon,LB,LBN,2015,9.2
+Lesotho,LS,LSO,2014,14.7
+Lesotho,LS,LSO,2015,14.6
+Lithuania,LT,LTU,2014,4.5
+Lithuania,LT,LTU,2015,4.5
+Luxembourg,LU,LUX,2014,6.7
+Luxembourg,LU,LUX,2015,6.5
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2014,8.9
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2015,9.1
+Madagascar,MG,MDG,2014,17.2
+Madagascar,MG,MDG,2015,17.1
+Malawi,MW,MWI,2014,14.6
+Malawi,MW,MWI,2015,14.5
+Malaysia,MY,MYS,2014,11.4
+Malaysia,MY,MYS,2015,11.3
+Maldives,MV,MDV,2014,11.8
+Maldives,MV,MDV,2015,11.7
+Malta,MT,MLT,2014,6.6
+Malta,MT,MLT,2015,6.3
+Mauritius,MU,MUS,2014,17.1
+Mauritius,MU,MUS,2015,17.1
+Mexico,MX,MEX,2014,7.9
+Mexico,MX,MEX,2015,7.9
+"Moldova, Republic of",MD,MDA,2014,5
+"Moldova, Republic of",MD,MDA,2015,5
+Monaco,MC,MCO,2014,5.4
+Monaco,MC,MCO,2015,5.4
+Mongolia,MN,MNG,2014,5.4
+Mongolia,MN,MNG,2015,5.4
+Montenegro,ME,MNE,2014,5.4
+Montenegro,ME,MNE,2015,5.5
+Morocco,MA,MAR,2014,17.4
+Morocco,MA,MAR,2015,17.3
+Mozambique,MZ,MOZ,2014,13.9
+Mozambique,MZ,MOZ,2015,13.8
+Myanmar,MM,MMR,2014,12.4
+Myanmar,MM,MMR,2015,12.3
+Namibia,,NAM,2014,15.6
+Namibia,,NAM,2015,15.5
+Nepal,NP,NPL,2014,22.1
+Nepal,NP,NPL,2015,21.8
+Netherlands,NL,NLD,2014,6.2
+Netherlands,NL,NLD,2015,6.2
+New Zealand,NZ,NZL,2014,5.8
+New Zealand,NZ,NZL,2015,5.7
+Nicaragua,NI,NIC,2014,10.7
+Nicaragua,NI,NIC,2015,10.7
+Norway,NO,NOR,2014,4.6
+Norway,NO,NOR,2015,4.5
+Oman,OM,OMN,2014,10.5
+Oman,OM,OMN,2015,10.5
+"Palestinian Territory, Occupied",PS,PSE,2014,8.4
+"Palestinian Territory, Occupied",PS,PSE,2015,8.4
+Panama,PA,PAN,2014,10.1
+Panama,PA,PAN,2015,10.1
+Paraguay,PY,PRY,2014,8.1
+Paraguay,PY,PRY,2015,8.1
+Peru,PE,PER,2014,9.4
+Peru,PE,PER,2015,9.4
+Philippines,PH,PHL,2014,20.2
+Philippines,PH,PHL,2015,20.1
+Poland,PL,POL,2014,5.8
+Poland,PL,POL,2015,5.9
+Portugal,PT,PRT,2014,8.8
+Portugal,PT,PRT,2015,8.9
+Qatar,QA,QAT,2014,7.4
+Qatar,QA,QAT,2015,7.3
+Romania,RO,ROU,2014,8.2
+Romania,RO,ROU,2015,8.2
+Russia,RU,RUS,2014,6
+Russia,RU,RUS,2015,5.8
+Russian Federation,RU,RUS,2014,6
+Russian Federation,RU,RUS,2015,5.8
+Rwanda,RW,RWA,2014,8
+Rwanda,RW,RWA,2015,7.9
+San Marino,SM,SMR,2014,3.3
+San Marino,SM,SMR,2015,3.3
+Sao Tome and Principe,ST,STP,2014,6.6
+Sao Tome and Principe,ST,STP,2015,6.6
+Senegal,SN,SEN,2014,18.6
+Senegal,SN,SEN,2015,18.5
+Serbia,RS,SRB,2014,4.5
+Serbia,RS,SRB,2015,4.5
+Seychelles,SC,SYC,2014,11.4
+Seychelles,SC,SYC,2015,11.7
+Sierra Leone,SL,SLE,2014,14.6
+Sierra Leone,SL,SLE,2015,14.4
+Singapore,SG,SGP,2014,9.6
+Singapore,SG,SGP,2015,9.6
+Slovakia,SK,SVK,2014,7.8
+Slovakia,SK,SVK,2015,7.6
+Slovenia,SI,SVN,2014,6.2
+Slovenia,SI,SVN,2015,6.1
+South Africa,ZA,ZAF,2014,14.2
+South Africa,ZA,ZAF,2015,14.2
+South Korea,KR,KOR,2014,5.7
+South Korea,KR,KOR,2015,5.8
+Spain,ES,ESP,2014,8.3
+Spain,ES,ESP,2015,8.3
+Sri Lanka,LK,LKA,2014,16.1
+Sri Lanka,LK,LKA,2015,15.9
+Suriname,SR,SUR,2014,14.7
+Suriname,SR,SUR,2015,14.7
+Swaziland,SZ,SWZ,2014,10.4
+Swaziland,SZ,SWZ,2015,10.3
+Sweden,SE,SWE,2014,3
+Sweden,SE,SWE,2015,2.4
+Switzerland,CH,CHE,2014,6.5
+Switzerland,CH,CHE,2015,6.5
+Tajikistan,TJ,TJK,2014,5.6
+Tajikistan,TJ,TJK,2015,5.6
+"Tanzania, United Republic of",TZ,TZA,2014,10.6
+"Tanzania, United Republic of",TZ,TZA,2015,10.5
+Thailand,TH,THA,2014,10.6
+Thailand,TH,THA,2015,10.5
+Togo,TG,TGO,2014,16.2
+Togo,TG,TGO,2015,16.1
+Trinidad and Tobago,TT,TTO,2014,12.4
+Trinidad and Tobago,TT,TTO,2015,12.4
+Tunisia,TN,TUN,2014,7.5
+Tunisia,TN,TUN,2015,7.5
+Turkey,TR,TUR,2014,11.4
+Turkey,TR,TUR,2015,11.4
+Turkmenistan,TM,TKM,2014,5
+Turkmenistan,TM,TKM,2015,4.9
+Ukraine,UA,UKR,2014,5.5
+Ukraine,UA,UKR,2015,5.6
+United Arab Emirates,AE,ARE,2014,12.7
+United Arab Emirates,AE,ARE,2015,12.7
+United Kingdom,GB,GBR,2014,6.9
+United Kingdom,GB,GBR,2015,7
+United States,US,USA,2014,8
+United States,US,USA,2015,8
+Uruguay,UY,URY,2014,7.7
+Uruguay,UY,URY,2015,7.6
+Uzbekistan,UZ,UZB,2014,5.3
+Uzbekistan,UZ,UZB,2015,5.3
+Vanuatu,VU,VUT,2014,10.9
+Vanuatu,VU,VUT,2015,10.9
+Venezuela,VE,VEN,2014,8.8
+Venezuela,VE,VEN,2015,9.1
+"Venezuela, Bolivarian Republic of",VE,VEN,2014,8.8
+"Venezuela, Bolivarian Republic of",VE,VEN,2015,9.1
+Viet Nam,VN,VNM,2014,8.3
+Viet Nam,VN,VNM,2015,8.2
+Vietnam,VN,VNM,2014,8.3
+Vietnam,VN,VNM,2015,8.2
+Zambia,ZM,ZMB,2014,11.7
+Zambia,ZM,ZMB,2015,11.6
+Zimbabwe,ZW,ZWE,2014,12.7
+Zimbabwe,ZW,ZWE,2015,12.6

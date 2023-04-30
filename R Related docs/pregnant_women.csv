@@ -1,0 +1,661 @@
+country,alpha_code,alpha_,numeric_code,year,obs_value,sex
+Afghanistan,AF,AFG,4,2003,16.1,Female
+Afghanistan,AF,AFG,4,2008,36,Female
+Afghanistan,AF,AFG,4,2010,59.6,Female
+Afghanistan,AF,AFG,4,2011,47.9,Female
+Afghanistan,AF,AFG,4,2012,51.2,Female
+Afghanistan,AF,AFG,4,2014,63.2,Female
+Afghanistan,AF,AFG,4,2015,58.6,Female
+Afghanistan,AF,AFG,4,2017,70.2,Female
+Afghanistan,AF,AFG,4,2018,65.2,Female
+Albania,AL,ALB,8,2000,95.3,Female
+Albania,AL,ALB,8,2002,90.6,Female
+Albania,AL,ALB,8,2005,97.1,Female
+Albania,AL,ALB,8,2009,97.3,Female
+Albania,AL,ALB,8,2018,88.4,Female
+Algeria,DZ,DZA,12,2000,79,Female
+Algeria,DZ,DZA,12,2002,80.7,Female
+Algeria,DZ,DZA,12,2006,89.4,Female
+Algeria,DZ,DZA,12,2013,92.7,Female
+Algeria,DZ,DZA,12,2019,95.3,Female
+Angola,AO,AGO,24,2007,79.8,Female
+Angola,AO,AGO,24,2016,81.6,Female
+Antigua and Barbuda,AG,ATG,28,2000,99.9,Female
+Antigua and Barbuda,AG,ATG,28,2004,100,Female
+Antigua and Barbuda,AG,ATG,28,2005,99.9,Female
+Antigua and Barbuda,AG,ATG,28,2007,100,Female
+Antigua and Barbuda,AG,ATG,28,2008,100,Female
+Argentina,AR,ARG,32,2001,97.5,Female
+Argentina,AR,ARG,32,2005,99.2,Female
+Argentina,AR,ARG,32,2012,98.1,Female
+Argentina,AR,ARG,32,2020,95,Female
+Armenia,AM,ARM,51,2000,92.4,Female
+Armenia,AM,ARM,51,2005,93,Female
+Armenia,AM,ARM,51,2010,99.1,Female
+Armenia,AM,ARM,51,2016,99.6,Female
+Australia,AU,AUS,36,2008,98.3,Female
+Azerbaijan,AZ,AZE,31,2000,66,Female
+Azerbaijan,AZ,AZE,31,2001,70,Female
+Azerbaijan,AZ,AZE,31,2006,76.9,Female
+Azerbaijan,AZ,AZE,31,2011,91.7,Female
+Bahamas,BS,BHS,44,2006,98,Female
+Bahamas,BS,BHS,44,2007,98,Female
+Bahrain,BH,BHR,48,2007,100,Female
+Bangladesh,BD,BGD,50,2000,33.3,Female
+Bangladesh,BD,BGD,50,2001,39.8,Female
+Bangladesh,BD,BGD,50,2004,48.7,Female
+Bangladesh,BD,BGD,50,2006,47.7,Female
+Bangladesh,BD,BGD,50,2007,51.7,Female
+Bangladesh,BD,BGD,50,2010,52.8,Female
+Bangladesh,BD,BGD,50,2011,54.6,Female
+Bangladesh,BD,BGD,50,2013,58.7,Female
+Bangladesh,BD,BGD,50,2014,63.9,Female
+Bangladesh,BD,BGD,50,2018,81.9,Female
+Bangladesh,BD,BGD,50,2019,75.2,Female
+Barbados,BB,BRB,52,2003,100,Female
+Barbados,BB,BRB,52,2004,100,Female
+Barbados,BB,BRB,52,2005,100,Female
+Barbados,BB,BRB,52,2006,100,Female
+Barbados,BB,BRB,52,2007,100,Female
+Barbados,BB,BRB,52,2012,93.4,Female
+Belarus,BY,BLR,112,2005,99.4,Female
+Belarus,BY,BLR,112,2012,99.7,Female
+Belarus,BY,BLR,112,2019,99.9,Female
+Belize,BZ,BLZ,84,2006,94,Female
+Belize,BZ,BLZ,84,2011,96.2,Female
+Belize,BZ,BLZ,84,2016,97.2,Female
+Benin,BJ,BEN,204,2001,81.1,Female
+Benin,BJ,BEN,204,2006,84.1,Female
+Benin,BJ,BEN,204,2012,83.5,Female
+Benin,BJ,BEN,204,2014,82.8,Female
+Benin,BJ,BEN,204,2018,83.2,Female
+Bhutan,BT,BTN,64,2000,51,Female
+Bhutan,BT,BTN,64,2007,88,Female
+Bhutan,BT,BTN,64,2010,97.3,Female
+Bhutan,BT,BTN,64,2012,97.9,Female
+"Bolivia, Plurinational State of",BO,BOL,68,2000,82.6,Female
+Bolivia,BO,BOL,68,2000,82.6,Female
+"Bolivia, Plurinational State of",BO,BOL,68,2004,79.1,Female
+Bolivia,BO,BOL,68,2004,79.1,Female
+"Bolivia, Plurinational State of",BO,BOL,68,2008,85.8,Female
+Bolivia,BO,BOL,68,2008,85.8,Female
+"Bolivia, Plurinational State of",BO,BOL,68,2012,90.1,Female
+Bolivia,BO,BOL,68,2012,90.1,Female
+"Bolivia, Plurinational State of",BO,BOL,68,2016,95.6,Female
+Bolivia,BO,BOL,68,2016,95.6,Female
+Bosnia and Herzegovina,BA,BIH,70,2000,99.2,Female
+Bosnia and Herzegovina,BA,BIH,70,2006,98.9,Female
+Bosnia and Herzegovina,BA,BIH,70,2012,87,Female
+Botswana,BW,BWA,72,2000,96.8,Female
+Botswana,BW,BWA,72,2007,94.1,Female
+Brazil,BR,BRA,76,2003,96.8,Female
+Brazil,BR,BRA,76,2004,97.2,Female
+Brazil,BR,BRA,76,2005,97.4,Female
+Brazil,BR,BRA,76,2006,97.8,Female
+Brazil,BR,BRA,76,2007,96.7,Female
+Brazil,BR,BRA,76,2009,98.2,Female
+Brazil,BR,BRA,76,2015,97.2,Female
+Brunei Darussalam,BN,BRN,96,2009,99,Female
+Brunei,BN,BRN,96,2009,99,Female
+Burkina Faso,BF,BFA,854,2003,73.4,Female
+Burkina Faso,BF,BFA,854,2006,85,Female
+Burkina Faso,BF,BFA,854,2010,94.3,Female
+Burkina Faso,BF,BFA,854,2015,92.8,Female
+Burundi,BI,BDI,108,2000,78,Female
+Burundi,BI,BDI,108,2005,92.4,Female
+Burundi,BI,BDI,108,2010,98.9,Female
+Burundi,BI,BDI,108,2012,96,Female
+Burundi,BI,BDI,108,2017,99.2,Female
+Cape Verde,CV,CPV,132,2005,97.6,Female
+Cape Verde,CV,CPV,132,2018,98.8,Female
+Cambodia,KH,KHM,116,2000,37.7,Female
+Cambodia,KH,KHM,116,2006,69.3,Female
+Cambodia,KH,KHM,116,2011,89.1,Female
+Cambodia,KH,KHM,116,2014,95.3,Female
+Cameroon,CM,CMR,120,2000,75.3,Female
+Cameroon,CM,CMR,120,2004,83.3,Female
+Cameroon,CM,CMR,120,2006,82,Female
+Cameroon,CM,CMR,120,2011,84.7,Female
+Cameroon,CM,CMR,120,2014,82.8,Female
+Cameroon,CM,CMR,120,2018,87,Female
+Canada,CA,CAN,124,2007,100,Female
+Central African Republic,CF,CAF,140,2000,62,Female
+Central African Republic,CF,CAF,140,2006,69.3,Female
+Central African Republic,CF,CAF,140,2010,68.2,Female
+Central African Republic,CF,CAF,140,2019,51.8,Female
+Chad,TD,TCD,148,2000,41.6,Female
+Chad,TD,TCD,148,2004,38.9,Female
+Chad,TD,TCD,148,2010,53.2,Female
+Chad,TD,TCD,148,2015,54.7,Female
+China,CN,CHN,156,2000,89.4,Female
+China,CN,CHN,156,2001,90.3,Female
+China,CN,CHN,156,2002,90.1,Female
+China,CN,CHN,156,2003,88.9,Female
+China,CN,CHN,156,2004,89.7,Female
+China,CN,CHN,156,2005,89.8,Female
+China,CN,CHN,156,2006,89.7,Female
+China,CN,CHN,156,2007,90.9,Female
+China,CN,CHN,156,2008,91,Female
+China,CN,CHN,156,2009,92.2,Female
+China,CN,CHN,156,2010,94.1,Female
+China,CN,CHN,156,2011,93.7,Female
+China,CN,CHN,156,2012,95,Female
+China,CN,CHN,156,2013,95.6,Female
+China,CN,CHN,156,2014,96.2,Female
+China,CN,CHN,156,2015,96.5,Female
+China,CN,CHN,156,2016,96.6,Female
+China,CN,CHN,156,2018,99.6,Female
+Colombia,CO,COL,170,2000,90.8,Female
+Colombia,CO,COL,170,2005,93.5,Female
+Colombia,CO,COL,170,2010,97,Female
+Colombia,CO,COL,170,2016,97.2,Female
+Comoros,KM,COM,174,2000,74.3,Female
+Comoros,KM,COM,174,2004,75,Female
+Comoros,KM,COM,174,2012,92.1,Female
+Congo,CG,COG,178,2005,85.8,Female
+Congo,CG,COG,178,2012,92.6,Female
+Congo,CG,COG,178,2015,93.5,Female
+Costa Rica,CR,CRI,188,2004,91.7,Female
+Costa Rica,CR,CRI,188,2006,91.7,Female
+Costa Rica,CR,CRI,188,2008,89.9,Female
+Costa Rica,CR,CRI,188,2011,98.1,Female
+Costa Rica,CR,CRI,188,2018,97.6,Female
+Cyprus,CY,CYP,196,2007,99.2,Female
+Côte d'Ivoire,CI,CIV,384,2000,87.6,Female
+Ivory Coast,CI,CIV,384,2000,87.6,Female
+Côte d'Ivoire,CI,CIV,384,2005,87.3,Female
+Ivory Coast,CI,CIV,384,2005,87.3,Female
+Côte d'Ivoire,CI,CIV,384,2006,84.8,Female
+Ivory Coast,CI,CIV,384,2006,84.8,Female
+Côte d'Ivoire,CI,CIV,384,2012,90.6,Female
+Ivory Coast,CI,CIV,384,2012,90.6,Female
+Côte d'Ivoire,CI,CIV,384,2016,93.2,Female
+Ivory Coast,CI,CIV,384,2016,93.2,Female
+"Congo, the Democratic Republic of the",CD,COD,180,2001,68.2,Female
+"Congo, the Democratic Republic of the",CD,COD,180,2007,85.3,Female
+"Congo, the Democratic Republic of the",CD,COD,180,2010,87.3,Female
+"Congo, the Democratic Republic of the",CD,COD,180,2014,88.4,Female
+"Congo, the Democratic Republic of the",CD,COD,180,2018,82.4,Female
+Djibouti,DJ,DJI,262,2003,67,Female
+Djibouti,DJ,DJI,262,2006,92.3,Female
+Djibouti,DJ,DJI,262,2012,87.7,Female
+Dominica,DM,DMA,212,2003,100,Female
+Dominica,DM,DMA,212,2004,100,Female
+Dominica,DM,DMA,212,2005,100,Female
+Dominica,DM,DMA,212,2007,100,Female
+Dominica,DM,DMA,212,2008,100,Female
+Dominican Republic,DO,DOM,214,2000,97.8,Female
+Dominican Republic,DO,DOM,214,2002,98.5,Female
+Dominican Republic,DO,DOM,214,2006,97,Female
+Dominican Republic,DO,DOM,214,2007,98.9,Female
+Dominican Republic,DO,DOM,214,2013,99.3,Female
+Dominican Republic,DO,DOM,214,2014,98,Female
+Dominican Republic,DO,DOM,214,2019,98,Female
+Ecuador,EC,ECU,218,2004,84.2,Female
+Egypt,EG,EGY,818,2000,52.9,Female
+Egypt,EG,EGY,818,2003,68.7,Female
+Egypt,EG,EGY,818,2005,69.6,Female
+Egypt,EG,EGY,818,2008,73.6,Female
+Egypt,EG,EGY,818,2014,90.3,Female
+El Salvador,SV,SLV,222,2003,86,Female
+El Salvador,SV,SLV,222,2008,94,Female
+El Salvador,SV,SLV,222,2014,96,Female
+Equatorial Guinea,GQ,GNQ,226,2000,86.1,Female
+Equatorial Guinea,GQ,GNQ,226,2011,91.3,Female
+Swaziland,SZ,SWZ,748,2000,86.6,Female
+Swaziland,SZ,SWZ,748,2002,89.8,Female
+Swaziland,SZ,SWZ,748,2007,84.8,Female
+Swaziland,SZ,SWZ,748,2010,96.8,Female
+Swaziland,SZ,SWZ,748,2014,98.5,Female
+Ethiopia,ET,ETH,231,2000,26.7,Female
+Ethiopia,ET,ETH,231,2005,27.6,Female
+Ethiopia,ET,ETH,231,2011,33.9,Female
+Ethiopia,ET,ETH,231,2014,41.2,Female
+Ethiopia,ET,ETH,231,2016,62.4,Female
+Ethiopia,ET,ETH,231,2019,73.6,Female
+Fiji,FJ,FJI,242,2008,100,Female
+Fiji,FJ,FJI,242,2021,97.7,Female
+Finland,FI,FIN,246,2004,99.8,Female
+France,FR,FRA,250,2004,99.8,Female
+Gabon,GA,GAB,266,2001,94.4,Female
+Gabon,GA,GAB,266,2012,94.7,Female
+Gambia,GM,GMB,270,2000,90.7,Female
+Gambia,GM,GMB,270,2006,97.8,Female
+Gambia,GM,GMB,270,2010,98.1,Female
+Gambia,GM,GMB,270,2013,86.2,Female
+Gambia,GM,GMB,270,2018,99,Female
+Gambia,GM,GMB,270,2020,97.8,Female
+Georgia,GE,GEO,268,2005,96.3,Female
+Georgia,GE,GEO,268,2010,97.6,Female
+Germany,DE,DEU,276,2004,100,Female
+Ghana,GH,GHA,288,2003,91.9,Female
+Ghana,GH,GHA,288,2006,92.1,Female
+Ghana,GH,GHA,288,2007,96.1,Female
+Ghana,GH,GHA,288,2008,90.1,Female
+Ghana,GH,GHA,288,2011,96.4,Female
+Ghana,GH,GHA,288,2014,90.5,Female
+Ghana,GH,GHA,288,2017,97.6,Female
+Ghana,GH,GHA,288,2018,97.1,Female
+Ghana,GH,GHA,288,2019,97.4,Female
+Grenada,GD,GRD,308,2003,99,Female
+Grenada,GD,GRD,308,2005,100,Female
+Grenada,GD,GRD,308,2007,100,Female
+Guatemala,GT,GTM,320,2002,84.3,Female
+Guatemala,GT,GTM,320,2009,93.2,Female
+Guatemala,GT,GTM,320,2015,91.3,Female
+Guinea,GN,GIN,324,2003,84.3,Female
+Guinea,GN,GIN,324,2005,82.2,Female
+Guinea,GN,GIN,324,2008,88.4,Female
+Guinea,GN,GIN,324,2012,85.2,Female
+Guinea,GN,GIN,324,2016,84.3,Female
+Guinea,GN,GIN,324,2018,80.9,Female
+Guinea-Bissau,GW,GNB,624,2000,62.1,Female
+Guinea-Bissau,GW,GNB,624,2006,77.9,Female
+Guinea-Bissau,GW,GNB,624,2010,92.6,Female
+Guinea-Bissau,GW,GNB,624,2014,92.4,Female
+Guinea-Bissau,GW,GNB,624,2019,97,Female
+Guyana,GY,GUY,328,2000,80.9,Female
+Guyana,GY,GUY,328,2003,90,Female
+Guyana,GY,GUY,328,2007,81.4,Female
+Guyana,GY,GUY,328,2009,92.1,Female
+Guyana,GY,GUY,328,2014,90.7,Female
+Haiti,HT,HTI,332,2000,78.8,Female
+Haiti,HT,HTI,332,2006,84.5,Female
+Haiti,HT,HTI,332,2012,90.3,Female
+Haiti,HT,HTI,332,2017,91,Female
+Honduras,HN,HND,340,2001,82.6,Female
+Honduras,HN,HND,340,2006,91.7,Female
+Honduras,HN,HND,340,2012,96.6,Female
+Honduras,HN,HND,340,2019,96.1,Female
+India,IN,IND,356,2000,61.8,Female
+India,IN,IND,356,2006,74.2,Female
+India,IN,IND,356,2016,79.3,Female
+India,IN,IND,356,2021,85.1,Female
+Indonesia,ID,IDN,360,2003,91.5,Female
+Indonesia,ID,IDN,360,2007,93.3,Female
+Indonesia,ID,IDN,360,2010,92.7,Female
+Indonesia,ID,IDN,360,2012,95.7,Female
+Indonesia,ID,IDN,360,2013,95.4,Female
+Indonesia,ID,IDN,360,2017,97.5,Female
+"Iran, Islamic Republic of",IR,IRN,364,2005,98.3,Female
+"Iran, Islamic Republic of",IR,IRN,364,2010,96.9,Female
+Iraq,IQ,IRQ,368,2000,76.7,Female
+Iraq,IQ,IRQ,368,2006,83.8,Female
+Iraq,IQ,IRQ,368,2011,77.7,Female
+Iraq,IQ,IRQ,368,2018,87.6,Female
+Ireland,IE,IRL,372,2004,99.5,Female
+Italy,IT,ITA,380,2004,99,Female
+Jamaica,JM,JAM,388,2002,98.1,Female
+Jamaica,JM,JAM,388,2005,90.5,Female
+Jamaica,JM,JAM,388,2009,99,Female
+Jamaica,JM,JAM,388,2011,97.7,Female
+Jordan,JO,JOR,400,2002,98.6,Female
+Jordan,JO,JOR,400,2007,98.8,Female
+Jordan,JO,JOR,400,2012,99.1,Female
+Jordan,JO,JOR,400,2018,97.6,Female
+Kazakhstan,KZ,KAZ,398,2006,99.9,Female
+Kazakhstan,KZ,KAZ,398,2011,99.2,Female
+Kazakhstan,KZ,KAZ,398,2015,99.3,Female
+Kenya,KE,KEN,404,2000,76.2,Female
+Kenya,KE,KEN,404,2003,88.1,Female
+Kenya,KE,KEN,404,2009,91.5,Female
+Kenya,KE,KEN,404,2010,85.8,Female
+Kenya,KE,KEN,404,2014,95.5,Female
+Kenya,KE,KEN,404,2015,93.7,Female
+Kenya,KE,KEN,404,2020,92.8,Female
+Kiribati,KI,KIR,296,2008,100,Female
+Kiribati,KI,KIR,296,2009,88.4,Female
+Kiribati,KI,KIR,296,2019,89.2,Female
+Kyrgyzstan,KG,KGZ,417,2006,96.9,Female
+Kyrgyzstan,KG,KGZ,417,2012,97,Female
+Kyrgyzstan,KG,KGZ,417,2014,98.4,Female
+Kyrgyzstan,KG,KGZ,417,2018,99.8,Female
+Lao People's Democratic Republic,LA,LAO,418,2000,26.5,Female
+Lao People's Democratic Republic,LA,LAO,418,2005,28.7,Female
+Lao People's Democratic Republic,LA,LAO,418,2006,35.1,Female
+Lao People's Democratic Republic,LA,LAO,418,2012,54.2,Female
+Lao People's Democratic Republic,LA,LAO,418,2017,78.4,Female
+Latvia,LV,LVA,428,2004,91.8,Female
+Lebanon,LB,LBN,422,2004,95.6,Female
+Lesotho,LS,LSO,426,2000,84.7,Female
+Lesotho,LS,LSO,426,2005,90.4,Female
+Lesotho,LS,LSO,426,2009,91.8,Female
+Lesotho,LS,LSO,426,2014,95.2,Female
+Lesotho,LS,LSO,426,2018,91.3,Female
+Liberia,LR,LBR,430,2000,84.4,Female
+Liberia,LR,LBR,430,2007,79.3,Female
+Liberia,LR,LBR,430,2013,95.9,Female
+Liberia,LR,LBR,430,2020,97.8,Female
+Libyan Arab Jamahiriya,LY,LBY,434,2007,93,Female
+Libya,LY,LBY,434,2007,93,Female
+Lithuania,LT,LTU,440,2004,100,Female
+Madagascar,MG,MDG,450,2000,71.2,Female
+Madagascar,MG,MDG,450,2004,79.9,Female
+Madagascar,MG,MDG,450,2009,86.3,Female
+Madagascar,MG,MDG,450,2013,82.1,Female
+Madagascar,MG,MDG,450,2018,85.1,Female
+Malawi,MW,MWI,454,2000,91.4,Female
+Malawi,MW,MWI,454,2002,94.3,Female
+Malawi,MW,MWI,454,2005,92.1,Female
+Malawi,MW,MWI,454,2006,91.9,Female
+Malawi,MW,MWI,454,2010,94.7,Female
+Malawi,MW,MWI,454,2014,96.1,Female
+Malawi,MW,MWI,454,2016,94.8,Female
+Malawi,MW,MWI,454,2017,97.6,Female
+Malawi,MW,MWI,454,2020,96.8,Female
+Malaysia,MY,MYS,458,2003,73.6,Female
+Malaysia,MY,MYS,458,2005,78.8,Female
+Malaysia,MY,MYS,458,2009,90.7,Female
+Malaysia,MY,MYS,458,2011,97.4,Female
+Malaysia,MY,MYS,458,2012,96.5,Female
+Malaysia,MY,MYS,458,2013,98,Female
+Malaysia,MY,MYS,458,2014,97.2,Female
+Maldives,MV,MDV,462,2001,81,Female
+Maldives,MV,MDV,462,2004,95,Female
+Maldives,MV,MDV,462,2009,99.1,Female
+Maldives,MV,MDV,462,2017,98.7,Female
+Mali,ML,MLI,466,2001,56.8,Female
+Mali,ML,MLI,466,2006,70.4,Female
+Mali,ML,MLI,466,2010,34.7,Female
+Mali,ML,MLI,466,2013,74.2,Female
+Mali,ML,MLI,466,2015,42.1,Female
+Mali,ML,MLI,466,2018,79.5,Female
+Malta,MT,MLT,470,2004,100,Female
+Marshall Islands,MH,MHL,584,2007,81.2,Female
+Mauritania,MR,MRT,478,2001,63.9,Female
+Mauritania,MR,MRT,478,2007,75.4,Female
+Mauritania,MR,MRT,478,2011,84.2,Female
+Mauritania,MR,MRT,478,2015,86.9,Female
+Mexico,MX,MEX,484,2006,97.7,Female
+Mexico,MX,MEX,484,2009,95.8,Female
+Mexico,MX,MEX,484,2012,97.6,Female
+Mexico,MX,MEX,484,2014,97.2,Female
+Mexico,MX,MEX,484,2015,98.5,Female
+"Micronesia, Federated States of",FM,FSM,583,2008,80,Female
+Mongolia,MN,MNG,496,2000,96.7,Female
+Mongolia,MN,MNG,496,2003,98.2,Female
+Mongolia,MN,MNG,496,2005,98.9,Female
+Mongolia,MN,MNG,496,2008,99.5,Female
+Mongolia,MN,MNG,496,2010,99,Female
+Mongolia,MN,MNG,496,2014,98.7,Female
+Mongolia,MN,MNG,496,2018,99.1,Female
+Montenegro,ME,MNE,499,2006,97.4,Female
+Montenegro,ME,MNE,499,2013,91.7,Female
+Montenegro,ME,MNE,499,2018,97.2,Female
+Morocco,MA,MAR,504,2004,67.8,Female
+Morocco,MA,MAR,504,2011,77.1,Female
+Morocco,MA,MAR,504,2018,88.5,Female
+Mozambique,MZ,MOZ,508,2000,75.8,Female
+Mozambique,MZ,MOZ,508,2003,84.5,Female
+Mozambique,MZ,MOZ,508,2008,92.3,Female
+Mozambique,MZ,MOZ,508,2011,90.6,Female
+Mozambique,MZ,MOZ,508,2015,87.2,Female
+Mozambique,MZ,MOZ,508,2018,94,Female
+Myanmar,MM,MMR,104,2001,75.6,Female
+Burma,MM,MMR,104,2001,75.6,Female
+Myanmar,MM,MMR,104,2007,79.8,Female
+Burma,MM,MMR,104,2007,79.8,Female
+Myanmar,MM,MMR,104,2010,83.1,Female
+Burma,MM,MMR,104,2010,83.1,Female
+Myanmar,MM,MMR,104,2016,80.7,Female
+Burma,MM,MMR,104,2016,80.7,Female
+Nauru,NR,NRU,520,2007,94.5,Female
+Nepal,NP,NPL,524,2000,27,Female
+Nepal,NP,NPL,524,2001,27.9,Female
+Nepal,NP,NPL,524,2006,43.7,Female
+Nepal,NP,NPL,524,2011,58.3,Female
+Nepal,NP,NPL,524,2014,68.3,Female
+Nepal,NP,NPL,524,2016,83.6,Female
+Nepal,NP,NPL,524,2019,88.8,Female
+Nicaragua,NI,NIC,558,2001,85.5,Female
+Nicaragua,NI,NIC,558,2007,90.2,Female
+Nicaragua,NI,NIC,558,2012,94.6,Female
+Niger,NE,NER,562,2000,41,Female
+Niger,NE,NER,562,2006,46.1,Female
+Niger,NE,NER,562,2012,82.8,Female
+Niger,NE,NER,562,2021,83.5,Female
+Nigeria,NG,NGA,566,2003,58,Female
+Nigeria,NG,NGA,566,2008,57.7,Female
+Nigeria,NG,NGA,566,2011,66.2,Female
+Nigeria,NG,NGA,566,2013,60.6,Female
+Nigeria,NG,NGA,566,2017,65.8,Female
+Nigeria,NG,NGA,566,2018,67,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,2000,81,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,2006,98.1,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,2011,98.6,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,2019,97.3,Female
+Oman,OM,OMN,512,2000,99.6,Female
+Oman,OM,OMN,512,2008,97.8,Female
+Oman,OM,OMN,512,2009,99,Female
+Oman,OM,OMN,512,2012,99,Female
+Oman,OM,OMN,512,2014,98.6,Female
+Pakistan,PK,PAK,586,2001,43.3,Female
+Pakistan,PK,PAK,586,2007,60.9,Female
+Pakistan,PK,PAK,586,2013,73.1,Female
+Pakistan,PK,PAK,586,2018,86.2,Female
+Pakistan,PK,PAK,586,2019,91.2,Female
+Palau,PW,PLW,585,2007,100,Female
+Palau,PW,PLW,585,2008,100,Female
+Palau,PW,PLW,585,2010,90.3,Female
+Panama,PA,PAN,591,2009,95.8,Female
+Panama,PA,PAN,591,2013,93.4,Female
+Panama,PA,PAN,591,2015,99.1,Female
+Papua New Guinea,PG,PNG,598,2006,78.8,Female
+Papua New Guinea,PG,PNG,598,2018,76.1,Female
+Paraguay,PY,PRY,600,2004,94.2,Female
+Paraguay,PY,PRY,600,2008,96.3,Female
+Paraguay,PY,PRY,600,2016,98.7,Female
+Peru,PE,PER,604,2000,83.8,Female
+Peru,PE,PER,604,2004,91.1,Female
+Peru,PE,PER,604,2006,91,Female
+Peru,PE,PER,604,2009,94.3,Female
+Peru,PE,PER,604,2010,94.7,Female
+Peru,PE,PER,604,2011,95.4,Female
+Peru,PE,PER,604,2012,96,Female
+Peru,PE,PER,604,2013,95.9,Female
+Peru,PE,PER,604,2014,96.9,Female
+Peru,PE,PER,604,2015,97,Female
+Peru,PE,PER,604,2016,97.6,Female
+Peru,PE,PER,604,2017,97.5,Female
+Peru,PE,PER,604,2018,98.1,Female
+Peru,PE,PER,604,2019,98.2,Female
+Peru,PE,PER,604,2020,98.1,Female
+Philippines,PH,PHL,608,2003,87.6,Female
+Philippines,PH,PHL,608,2008,91.1,Female
+Philippines,PH,PHL,608,2011,94.5,Female
+Philippines,PH,PHL,608,2013,95.4,Female
+Philippines,PH,PHL,608,2017,93.8,Female
+Portugal,PT,PRT,620,2004,100,Female
+Qatar,QA,QAT,634,2009,100,Female
+Qatar,QA,QAT,634,2012,90.8,Female
+"Moldova, Republic of",MD,MDA,498,2005,98,Female
+"Moldova, Republic of",MD,MDA,498,2012,98.8,Female
+Romania,RO,ROU,642,2004,73.70839554,Female
+Romania,RO,ROU,642,2005,80.2112625,Female
+Romania,RO,ROU,642,2006,79.18979039,Female
+Romania,RO,ROU,642,2007,84.0225441,Female
+Romania,RO,ROU,642,2008,84.32485951,Female
+Romania,RO,ROU,642,2009,82.5366602,Female
+Romania,RO,ROU,642,2010,79.52180986,Female
+Romania,RO,ROU,642,2011,80.29383028,Female
+Romania,RO,ROU,642,2012,73.37803027,Female
+Romania,RO,ROU,642,2013,78.23261409,Female
+Romania,RO,ROU,642,2014,75.20162818,Female
+Romania,RO,ROU,642,2015,75.57851856,Female
+Romania,RO,ROU,642,2016,73.63554342,Female
+Romania,RO,ROU,642,2017,72.1699552,Female
+Romania,RO,ROU,642,2018,70.16685599,Female
+Romania,RO,ROU,642,2019,69.90887112,Female
+Romania,RO,ROU,642,2020,72.28943034,Female
+Rwanda,RW,RWA,646,2000,91.5,Female
+Rwanda,RW,RWA,646,2005,94.4,Female
+Rwanda,RW,RWA,646,2008,95.8,Female
+Rwanda,RW,RWA,646,2011,98,Female
+Rwanda,RW,RWA,646,2015,99,Female
+Rwanda,RW,RWA,646,2017,97.6,Female
+Rwanda,RW,RWA,646,2020,97.7,Female
+Saint Kitts and Nevis,KN,KNA,659,2004,100,Female
+Saint Kitts and Nevis,KN,KNA,659,2005,100,Female
+Saint Kitts and Nevis,KN,KNA,659,2007,100,Female
+Saint Lucia,LC,LCA,662,2000,47.8,Female
+Saint Lucia,LC,LCA,662,2004,99.2,Female
+Saint Lucia,LC,LCA,662,2005,99.2,Female
+Saint Lucia,LC,LCA,662,2006,99.2,Female
+Saint Lucia,LC,LCA,662,2007,99.2,Female
+Saint Lucia,LC,LCA,662,2012,96.9,Female
+Saint Vincent and the Grenadines,VC,VCT,670,2000,99,Female
+Saint Vincent & the Grenadines,VC,VCT,670,2000,99,Female
+St. Vincent and the Grenadines,VC,VCT,670,2000,99,Female
+Saint Vincent and the Grenadines,VC,VCT,670,2005,95,Female
+Saint Vincent & the Grenadines,VC,VCT,670,2005,95,Female
+St. Vincent and the Grenadines,VC,VCT,670,2005,95,Female
+Saint Vincent and the Grenadines,VC,VCT,670,2008,99.5,Female
+Saint Vincent & the Grenadines,VC,VCT,670,2008,99.5,Female
+St. Vincent and the Grenadines,VC,VCT,670,2008,99.5,Female
+Samoa,WS,WSM,882,2009,93,Female
+Samoa,WS,WSM,882,2014,93.3,Female
+Samoa,WS,WSM,882,2020,94.1,Female
+Sao Tome and Principe,ST,STP,678,2000,90.6,Female
+Sao Tome and Principe,ST,STP,678,2006,97.3,Female
+Sao Tome and Principe,ST,STP,678,2009,97.9,Female
+Sao Tome and Principe,ST,STP,678,2014,97.5,Female
+Sao Tome and Principe,ST,STP,678,2019,98.1,Female
+Saudi Arabia,SA,SAU,682,2008,97,Female
+Senegal,SN,SEN,686,2000,79,Female
+Senegal,SN,SEN,686,2005,87.4,Female
+Senegal,SN,SEN,686,2011,93.3,Female
+Senegal,SN,SEN,686,2013,94.5,Female
+Senegal,SN,SEN,686,2014,96.2,Female
+Senegal,SN,SEN,686,2015,95,Female
+Senegal,SN,SEN,686,2016,95.9,Female
+Senegal,SN,SEN,686,2017,97.1,Female
+Senegal,SN,SEN,686,2018,97.7,Female
+Senegal,SN,SEN,686,2019,97.6,Female
+Serbia,RS,SRB,688,2006,98.2,Female
+Serbia,RS,SRB,688,2010,99,Female
+Serbia,RS,SRB,688,2014,98.3,Female
+Serbia,RS,SRB,688,2019,99.4,Female
+Sierra Leone,SL,SLE,694,2000,67.9,Female
+Sierra Leone,SL,SLE,694,2005,81.1,Female
+Sierra Leone,SL,SLE,694,2008,86.9,Female
+Sierra Leone,SL,SLE,694,2010,93,Female
+Sierra Leone,SL,SLE,694,2013,97.1,Female
+Sierra Leone,SL,SLE,694,2017,97.4,Female
+Sierra Leone,SL,SLE,694,2019,97.9,Female
+Slovakia,SK,SVK,703,2004,96.9,Female
+Slovenia,SI,SVN,705,2004,99.5,Female
+Solomon Islands,SB,SLB,90,2007,73.9,Female
+Solomon Islands,SB,SLB,90,2015,88.5,Female
+Somalia,SO,SOM,706,2000,32.3,Female
+Somalia,SO,SOM,706,2006,26.1,Female
+South Africa,ZA,ZAF,710,2004,91.9,Female
+South Africa,ZA,ZAF,710,2008,97.1,Female
+South Africa,ZA,ZAF,710,2016,93.7,Female
+Sri Lanka,LK,LKA,144,2000,94.5,Female
+Sri Lanka,LK,LKA,144,2007,99.4,Female
+Sri Lanka,LK,LKA,144,2014,95.5,Female
+Sri Lanka,LK,LKA,144,2016,98.8,Female
+"Palestinian Territory, Occupied",PS,PSE,275,2000,95.6,Female
+"Palestinian Territory, Occupied",PS,PSE,275,2006,98.8,Female
+"Palestinian Territory, Occupied",PS,PSE,275,2010,98,Female
+"Palestinian Territory, Occupied",PS,PSE,275,2014,99.4,Female
+"Palestinian Territory, Occupied",PS,PSE,275,2020,98.7,Female
+Sudan,SD,SDN,736,2006,74.1,Female
+Sudan,SD,SDN,736,2010,74.3,Female
+Sudan,SD,SDN,736,2014,79.1,Female
+Suriname,SR,SUR,740,2000,90.6,Female
+Suriname,SR,SUR,740,2006,89.9,Female
+Suriname,SR,SUR,740,2010,90.9,Female
+Suriname,SR,SUR,740,2018,84.8,Female
+Sweden,SE,SWE,752,2004,100,Female
+Syrian Arab Republic,SY,SYR,760,2000,71.2,Female
+Syrian Arab Republic,SY,SYR,760,2006,84,Female
+Syrian Arab Republic,SY,SYR,760,2009,87.7,Female
+Tajikistan,TJ,TJK,762,2000,71.3,Female
+Tajikistan,TJ,TJK,762,2005,77.1,Female
+Tajikistan,TJ,TJK,762,2007,88.8,Female
+Tajikistan,TJ,TJK,762,2012,78.8,Female
+Tajikistan,TJ,TJK,762,2017,91.8,Female
+Thailand,TH,THA,764,2000,91.8,Female
+Thailand,TH,THA,764,2006,97.8,Female
+Thailand,TH,THA,764,2009,99.1,Female
+Thailand,TH,THA,764,2012,98.1,Female
+Thailand,TH,THA,764,2016,98.1,Female
+Thailand,TH,THA,764,2019,98.6,Female
+Timor-Leste,TL,TLS,626,2002,42.5,Female
+Timor-Leste,TL,TLS,626,2003,60.5,Female
+Timor-Leste,TL,TLS,626,2010,84.4,Female
+Timor-Leste,TL,TLS,626,2016,84.4,Female
+Togo,TG,TGO,768,2000,72.9,Female
+Togo,TG,TGO,768,2003,84.8,Female
+Togo,TG,TGO,768,2006,84.1,Female
+Togo,TG,TGO,768,2010,71.6,Female
+Togo,TG,TGO,768,2014,72.7,Female
+Togo,TG,TGO,768,2017,77.9,Female
+Tonga,TO,TON,776,2008,99,Female
+Tonga,TO,TON,776,2010,97.9,Female
+Tonga,TO,TON,776,2012,99,Female
+Tonga,TO,TON,776,2019,97.7,Female
+Trinidad and Tobago,TT,TTO,780,2000,92.4,Female
+Trinidad and Tobago,TT,TTO,780,2006,95.7,Female
+Trinidad and Tobago,TT,TTO,780,2011,95.1,Female
+Tunisia,TN,TUN,788,2000,91.5,Female
+Tunisia,TN,TUN,788,2006,96,Female
+Tunisia,TN,TUN,788,2012,98.1,Female
+Tunisia,TN,TUN,788,2018,95.3,Female
+Turks and Caicos Islands,TC,TCA,796,2020,97.3,Female
+Tuvalu,TV,TUV,798,2007,97.4,Female
+Tuvalu,TV,TUV,798,2020,93.9,Female
+Turkey,TR,TUR,792,2003,80.9,Female
+Turkey,TR,TUR,792,2008,92,Female
+Turkey,TR,TUR,792,2014,97,Female
+Turkey,TR,TUR,792,2018,96.4,Female
+Uganda,UG,UGA,800,2001,92.4,Female
+Uganda,UG,UGA,800,2006,93.5,Female
+Uganda,UG,UGA,800,2011,93.3,Female
+Uganda,UG,UGA,800,2016,97.3,Female
+Uganda,UG,UGA,800,2018,95.1,Female
+Ukraine,UA,UKR,804,2005,98.8,Female
+Ukraine,UA,UKR,804,2007,98.5,Female
+Ukraine,UA,UKR,804,2012,98.6,Female
+United Arab Emirates,AE,ARE,784,2007,100,Female
+"Tanzania, United Republic of",TZ,TZA,834,2005,78.2,Female
+"Tanzania, United Republic of",TZ,TZA,834,2008,75.8,Female
+"Tanzania, United Republic of",TZ,TZA,834,2010,87.8,Female
+"Tanzania, United Republic of",TZ,TZA,834,2016,98,Female
+"Tanzania, United Republic of",TZ,TZA,834,2017,98,Female
+Uruguay,UY,URY,858,2005,97.1,Female
+Uruguay,UY,URY,858,2007,96.2,Female
+Uruguay,UY,URY,858,2013,97.2,Female
+Uzbekistan,UZ,UZB,860,2000,97.2,Female
+Uzbekistan,UZ,UZB,860,2006,99,Female
+Uzbekistan,UZ,UZB,860,2010,96.6,Female
+Uzbekistan,UZ,UZB,860,2011,99.1,Female
+Uzbekistan,UZ,UZB,860,2012,99.8,Female
+Uzbekistan,UZ,UZB,860,2013,99.8,Female
+Uzbekistan,UZ,UZB,860,2014,99.8,Female
+Uzbekistan,UZ,UZB,860,2015,99.4,Female
+Vanuatu,VU,VUT,548,2007,84.3,Female
+Vanuatu,VU,VUT,548,2013,75.6,Female
+Viet Nam,VN,VNM,704,2000,68.3,Female
+Vietnam,VN,VNM,704,2000,68.3,Female
+Viet Nam,VN,VNM,704,2002,86.4,Female
+Vietnam,VN,VNM,704,2002,86.4,Female
+Viet Nam,VN,VNM,704,2006,90.8,Female
+Vietnam,VN,VNM,704,2006,90.8,Female
+Viet Nam,VN,VNM,704,2011,93.7,Female
+Vietnam,VN,VNM,704,2011,93.7,Female
+Viet Nam,VN,VNM,704,2014,95.8,Female
+Vietnam,VN,VNM,704,2014,95.8,Female
+Viet Nam,VN,VNM,704,2021,97,Female
+Vietnam,VN,VNM,704,2021,97,Female
+Zambia,ZM,ZMB,894,2002,93.4,Female
+Zambia,ZM,ZMB,894,2007,93.7,Female
+Zambia,ZM,ZMB,894,2014,95.7,Female
+Zambia,ZM,ZMB,894,2019,96.9,Female
+Zimbabwe,ZW,ZWE,716,2006,94.2,Female
+Zimbabwe,ZW,ZWE,716,2009,88.4,Female
+Zimbabwe,ZW,ZWE,716,2011,89.8,Female
+Zimbabwe,ZW,ZWE,716,2014,93.7,Female
+Zimbabwe,ZW,ZWE,716,2015,93.3,Female
+Zimbabwe,ZW,ZWE,716,2019,93.3,Female

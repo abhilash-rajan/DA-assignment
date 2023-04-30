@@ -1,0 +1,106 @@
+---
+title: "Data Analytics Assignment"
+format: html
+editor: visual
+---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(maps)
+library(ggmap)
+
+```
+
+## Question : Is rate of antenatal care recieved by pregnant women a major factor for infoant mortality rate?
+
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+IndicatorData <- read_csv("pregnant_women.csv")
+```
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+GDPData <- read_csv("unicef_metadata.csv")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+Livebirths <- read_csv("live_births.csv")
+```
+
+
+# Percentage of pregnant women (aged 15-49 years) who recieved antenatal care atleast once during their pregnancy
+
+The world map shows the percentage of women who recieved antenatal care atleast once during their pregnancy across different countries. Countries with higher percentages are shown in darker shades of red.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+world_map <- map_data("world")
+IndicatorData_map <- IndicatorData %>%
+  left_join(world_map, by = c("country" = "region"))
+ggplot() +
+  geom_polygon(data = IndicatorData_map, aes(x = long, y = lat, group = group, fill = `obs_value`), na.rm = TRUE) +
+  scale_fill_gradient(low = "yellow", high = "purple", name = "Percentage") +
+  theme_minimal() +
+  labs(title = "Percentage of pregnant women who recieved antenatal care")
+
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+MergedData <- IndicatorData %>%
+  inner_join(GDPData, by = "country")
+
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+MergedData_All <- MergedData %>%
+  inner_join(Livebirths, by = "country")
+
+```
+
+
+
+# Live birth rate of ingfants under the weight of 2500g
+
+The scatterplot illustrates the relationship between live birth rate of infants, GDP rates and the percentage of pregnant women who have recieved antenatal care atleast once during their pregnancy. The linear regression line shows the general trend.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+ggplot(MergedData_All, aes(x = `live_births`, y = `obs_value`, color = `GDP`)) +
+  geom_point(alpha = 0.6, size = 3) +
+  geom_smooth(method = "lm", se = FALSE, linetype = "dashed", color = "black") +
+  scale_color_gradient2(low = "green", mid = "blue", high = "red", midpoint = median(MergedData_All$`GDP`, na.rm = TRUE), name = "GDP per Capita 2021") +
+  labs(title = "Scatter Plot with Regression Line",
+       x = "Live infant birth rate under the weight 2500g",
+       y = "Percentage of pregnant women who recieved antenatal care") +
+  theme_minimal()
+```
+
+# GDP 2021
+
+The bar chart presents the GDP for each country
+```{r gdp_bar_chart, fig.height=20, fig.width=12, echo=FALSE}
+
+ggplot(MergedData, aes(x = reorder(country, `GDP`), y = `GDP`)) +
+  geom_bar(stat = "identity") +
+  labs(title = "2021 GDP per Capita at Constant 2015 US$",
+       x = "Country",
+       y = "GDP per Capita") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+        axis.title.x = element_blank()) +
+  coord_flip()
+```
+
+
+
+Conclusion
+The story of maternal and child healthcare is complex, and it's crucial to learn about all the developments that have led to today's high rate of successful pregnancies and childbirths. To better appreciate the difficulties women and children face in different parts of the world, we can examine UNICEF data on antenatal care, low birth weight, population, and GNI. First, we'll take a look at the birth rate for infants weighing less than 2500 grams and the percentage of pregnant women who receive Antenatal care. Pregnancy complications and lack of Antenatal care are common causes of low birth weight, which is a leading cause of infant mortality. There is a clear need for improved maternal and child healthcare in nations like India, Pakistan, and Nigeria, where the rate of births of infants weighing less than 2500 grams is high, and in nations like Afghanistan, Somalia, and South Sudan, where fewer than 30 percent of pregnant women have access to professional healthcare. 
+
+Analysis of mother and child health must also account for population size. Even a small percentage of women not accessing professional healthcare can result in a big number of high-risk pregnancies and deliveries in nations with huge populations. While a sizable fraction of expecting mothers in China have access to Antenatal care, the country's sheer size presents formidable obstacles to achieving universal parity in maternal and child health. 
+  Finally, GNI can be used as a factor in deciding whether or not pregnant women and children have access to healthcare. Healthcare resources, such as skilled healthcare providers, pharmaceuticals, and medical equipment, might be scarce in countries with low GNI. Maternal and child health outcomes can be improved by using GNI alongside other variables to determine which nations require more assistance. 
+Maternal and child health is a multifaceted issue, and any analysis of the problems that women and children face must take all of these into account. Data visualizations that focus on maternal and child health indicators help us learn about the differences between nations, as well as where there may be room for improvement in healthcare delivery, ultimately benefitting women and children everywhere. 
+---
+
+## 
